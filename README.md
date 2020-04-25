@@ -14,4 +14,5 @@ Steps to do:
 7. Use the model for the web app
 
 Always make sure to delete your endpoints if you are no longer using it. You will be charged for the length of time the endpoint is running.
-predictor.delete_endpoint()
+
+Run this command to delete the endpoint: predictor.delete_endpoint()
